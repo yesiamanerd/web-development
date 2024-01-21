@@ -67,3 +67,11 @@ L
 6.0 CSS Colors/solution.html,5\c\5cce3e4668d6dfda3fd4c6537bd14d98a3de8529
 S
 #.idea/sonarlint/issuestore/index.pb,9\f\9fe84ebb15faf917b7def6236dba604453cc61e0
+N
+6.1 Font Properties/index.html,b\3\b35c6672871534ddfa18fe5017764013cfc24c15
+Q
+!6.1 Font Properties/solution.html,b\e\be25f662cee05454a2220ae011a547e4c4aaf97a
+T
+$6.1 Font Properties/font-family.html,9\7\971fb041f56f8dbe2512ea449e3103d4aa9e142f
+R
+"6.1 Font Properties/font-size.html,d\3\d38811e9f08e22a75787fb3d2ecc11b2d0021c64
