@@ -59,3 +59,11 @@ Q
 !5.4 Color Vocab Project/style.css,8\a\8a65d5ea6b6cf546e0bef0677da171e24dc8ccb0
 R
 "5.4 Color Vocab Project/index.html,7\9\79adbd8881551ea1111150bc50881ec9c9927c4b
+I
+6.0 CSS Colors/index.html,0\4\0446e4eaf9a036fc9026e747b028aa608eb349fd
+]
+-.idea/sonarlint/securityhotspotstore/index.pb,8\8\88a9255124c95bdc913197c120a8d560edc59c8e
+L
+6.0 CSS Colors/solution.html,5\c\5cce3e4668d6dfda3fd4c6537bd14d98a3de8529
+S
+#.idea/sonarlint/issuestore/index.pb,9\f\9fe84ebb15faf917b7def6236dba604453cc61e0
