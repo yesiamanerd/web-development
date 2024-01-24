@@ -79,3 +79,17 @@ L
 6.3 CSS Box Model/index.html,5\a\5a99b913d8efec04df1218a651dab1ab621b201d
 V
 &6.4 Motivation Meme Project/index.html,c\d\cde7add387bcb9cd33089d6de6567eb5745be62e
+H
+8.1 CSS Float/index.html,2\c\2c11cd21539992843fdee1ac3abcb8266dda7179
+M
+8.2 Responsiveness/index.html,7\2\72d8889cd252ec71f7802b91798fa45976dfad05
+J
+8.3 Media Query/index.html,2\d\2d3948a85ba5af25eeb234748b9abc9425c2c8b9
+X
+(8.4 Web Design Agency Project/index.html,c\8\c88cd092f5e3e9e2f70674f4c9f3591b659770a4
+[
++8.4 Web Design Agency Project/solution.html,2\2\22b6841db668379c813be2a38fb65269356ef900
+W
+'8.4 Web Design Agency Project/style.css,7\4\747e4b33a5ad2ffadd207f380a0d7722e1314f08
+Z
+*8.4 Web Design Agency Project/solution.css,4\f\4f567eb1932bfcd97d6c534344678994bd2efd91
