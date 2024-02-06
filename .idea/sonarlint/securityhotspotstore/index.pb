@@ -93,3 +93,55 @@ W
 '8.4 Web Design Agency Project/style.css,7\4\747e4b33a5ad2ffadd207f380a0d7722e1314f08
 Z
 *8.4 Web Design Agency Project/solution.css,4\f\4f567eb1932bfcd97d6c534344678994bd2efd91
+K
+9.0 Display Flex/index.html,a\c\aca8e1e3bc13da65b494d52d9dc8fc2b08a7edae
+K
+9.0 Display Flex/float.html,d\f\dfc5947dad78e5b191d425d3faa14f158b2acf3a
+P
+ 9.0 Display Flex/html-table.html,3\8\38880d2df53beb7721c1b60a674d24c6c2c08c23
+R
+"9.0 Display Flex/inline-block.html,5\6\568980b33be9f1e5065f6069a74e326323b1df4f
+N
+9.0 Display Flex/solution.html,2\2\224f510a59740ec5b11691e2b44edb6de4cc9a65
+W
+'9.0 Display Flex/absolute-position.html,8\a\8aa22d85aa67448e09e49cecf54246679a022ff5
+J
+9.0 Display Flex/flex.html,a\c\ac7966cb45416c507b0f4569edf187c92dce2559
+M
+9.1 Flex Direction/index.html,0\2\024f247396eda4f069a4aac2f839077276292073
+P
+ 9.1 Flex Direction/solution.html,6\1\61541f71b22554f5371e0ac55525e2e764bc4171
+\
+,9.4 Flexbox+Pricing+Table+Project/index.html,b\d\bd1a717d0d779f3e02617771f5feed192d651f73
+_
+/9.4 Flexbox+Pricing+Table+Project/solution.html,0\2\02d8589e5e48e31e9a8922529bd3e4964741e69e
+L
+10.0 Display Grid/index.html,4\0\406368d25f1a33cfd9bffc9a8f0bb81b00493b06
+O
+10.0 Display Grid/solution.html,8\2\82eff6854bf54146c24d1c421b5c0d93b11cb971
+K
+10.1 Grid Sizing/index.html,f\e\fe04a67d93f672d6e6bd0784140fbf3253a75fa3
+R
+"10.2 Grid Placement/exercise1.html,f\8\f8061006c807351b7f17f8ed8c777024f065f721
+R
+"10.2 Grid Placement/exercise2.html,8\c\8c7c4a01270c76a50fd9feb983d5fe9209f02cac
+R
+"10.2 Grid Placement/exercise3.html,6\4\6403e0e6945b865ad9ad2a911a63ea8cb73011e5
+P
+ 10.3 Mondrian Project/index.html,1\c\1c1416177852bffbd6b3d31e1aeec8b58c248c42
+S
+#10.3 Mondrian Project/solution.html,7\3\7357496cc4f6354edf1b9f6c8ec3fa9d6412f1fd
+R
+"11/11.0 Bootstrap Intro/index.html,4\4\44d23d3602ec027fe3556e8d075c7341dc464a2c
+U
+%11/11.0 Bootstrap Intro/solution.html,4\1\4103d9e372988399d555f39031eddb1136df8fb4
+W
+'11/11.2 Bootstrap Components/index.html,9\6\966615f9bc8932db6ada56f40d4f13cc94281a11
+Z
+*11/11.2 Bootstrap Components/briefcase.svg,7\c\7c4aab33fcac3486350c55577212f5e8e593a692
+]
+-11/11.2 Bootstrap Components/website-text.txt,0\8\083198c98c8853e92f67e068dbcbd5d2d3e4fc74
+Q
+!11/11.3 TinDog Project/index.html,9\1\912ed4e7d5fcf2fb16e1baf3937a2095308559be
+T
+$11/11.3 TinDog Project/solution.html,7\e\7e60990e40058d5a7b524af2919e6314ceafeafd
